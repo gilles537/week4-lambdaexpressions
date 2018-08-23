@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
 
 public class SimpleEncryptionTest {
 	private static final String ORIGINAL_MESSAGE_SIMPLE = "Sam1!";
-	private static final String ENCRYPTED_MESSAGE_SIMPLE = "28-10-22-1-!";
+	private static final String ENCRYPTED_MESSAGE_SIMPLE = "83-65-77-1-!";
 	
 	@Test
 	public void simpleEncryption() {
